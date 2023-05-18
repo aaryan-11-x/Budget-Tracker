@@ -1,5 +1,5 @@
 # Expense Tracker
-The Budget Tracker is a web application that allows users to track their expenses and manage their expenses. It is built using HTML, CSS, JS, and PHP.
+The Expense Tracker is a web application that allows users to track their expenses and manage their expenses. It is built using HTML, CSS, JS, and PHP.
 
 
 # Features
